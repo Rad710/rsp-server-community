@@ -45,3 +45,4 @@ Run the following code:
     vsce package
 
 
+Must build using Maven 3.2.3
