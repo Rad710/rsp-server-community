@@ -8,6 +8,8 @@
 
 ## Summary
 
+This is a fork for version 0.25.8 which was the last version to support Java 8. I simply added the fix to allow to override the server arguments for Tomcat server (I used it for Hotcode replace using Java Trava)
+
 This repository is a home for an RSP server, and the associated VSCode Extension, which can start, stop, and otherwise control Community runtimes and servers like Apache Felix, Karaf, Tomcat, Glassfish, Jetty and Websphere Liberty. 
 
 The protocol is based on LSP4J. In short, the base protocol is the same as LSP, but the specification of the messages is different. 
